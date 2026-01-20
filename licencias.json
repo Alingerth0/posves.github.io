@@ -1,0 +1,22 @@
+{
+    2   "version": "1.0",
+    3   "ultimo_update": "2026-01-19",
+    4   "clientes": [
+    5     {
+    6       "rif": "J-123456789",
+    7       "hwid": "D0E1F2A3-B4C5-D6E7-F8G9-H0I1J2K3L4M5",
+    8       "status": "activo",
+    9       "expiracion": "2027-01-01",
+   10       "nombre": "CLIENTE EJEMPLO S.A.",
+   11       "codigo_activacion": "POS-88-XYZ"
+   12     },
+   13     {
+   14       "rif": "J-987654321",
+   15       "hwid": "ANY",
+   16       "status": "suspendido",
+   17       "expiracion": "2025-12-31",
+   18       "nombre": "TIENDA MOROSA",
+   19       "codigo_activacion": "POS-00-BAD"
+   20     }
+   21   ]
+   22 }
